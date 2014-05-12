@@ -8,10 +8,8 @@ js: index
 ---
 
 
-emonHub can be installed as a standalone or with emoncms
 
-
-###Get the lowdown on how to install emonHub here !
+###Installing emonHub
 
 emonHub can be installed and used in a variety of different situations, therefore this installation documentation has a lot of ground to cover and will probably never be entirely complete as additional and alternative configurations are numerous and frequently changing.
 
