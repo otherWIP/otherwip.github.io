@@ -9,7 +9,7 @@ js: index
 
 
 
-###**Installing emonHub**
+##**Installing emonHub**
 
 emonHub can be installed and used in a variety of different situations, therefore this installation documentation has a lot of ground to cover and will probably never be entirely complete as additional and alternative configurations are numerous and frequently changing.
 
@@ -19,7 +19,7 @@ The more mainstream applications will be documented first and get updated as a p
 
 ------------------------------
 
-####**[RaspberryPi Installation Guide]({{site.page}}install/raspberrypi)**
+###**[RaspberryPi Installation Guide]({{site.page}}install/raspberrypi)**
 
 The Raspberry Pi has proved to be by far the most suitable platform and has become the most widely adopted platform for emonHub, emonCMS and the whole OpenEnergyMonitor project in general. 
 
@@ -27,7 +27,7 @@ Raspbian "wheezy" is the default operating software for the Raspberry Pi, it is 
 
 -----------------------------------------
 
-####**[Linux Installation Guide]({{site.page}}install/linux)**
+###**[Linux Installation Guide]({{site.page}}install/linux)**
 
 EmonHub can also be installed to other Linux & Debian derived platforms such as Ubuntu
 
