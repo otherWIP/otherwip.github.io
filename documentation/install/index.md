@@ -9,7 +9,7 @@ js: index
 
 
 
-###Installing emonHub
+###**Installing emonHub**
 
 emonHub can be installed and used in a variety of different situations, therefore this installation documentation has a lot of ground to cover and will probably never be entirely complete as additional and alternative configurations are numerous and frequently changing.
 
@@ -27,7 +27,7 @@ Raspbian "wheezy" is the default operating software for the Raspberry Pi, it is 
 
 -----------------------------------------
 
-####[Linux Installation Guide]({{site.page}}install/linux)
+####**[Linux Installation Guide]({{site.page}}install/linux)**
 
 EmonHub can also be installed to other Linux & Debian derived platforms such as Ubuntu
 
