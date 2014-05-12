@@ -33,5 +33,9 @@ EmonHub can also be installed to other Linux & Debian derived platforms such as 
 
 -------------------------------------------
 
+###**[Linux Installation Guide]({{site.page}}install/windows)**
+
+EmonHub can also be installed to windows
+
 
 
