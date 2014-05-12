@@ -19,7 +19,7 @@ The more mainstream applications will be documented first and get updated as a p
 
 ------------------------------
 
-####[RaspberryPi Installation Guide]({{site.page}}install/raspberrypi)
+####**[RaspberryPi Installation Guide]({{site.page}}install/raspberrypi)**
 
 The Raspberry Pi has proved to be by far the most suitable platform and has become the most widely adopted platform for emonHub, emonCMS and the whole OpenEnergyMonitor project in general. 
 
