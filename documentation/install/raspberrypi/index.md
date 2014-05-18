@@ -32,13 +32,3 @@ Follow the set-up screens
 
 Adding a RFM2Pi
 
-Create a RO image
-
-#### [Set up RaspberryPi hdd]({{site.page}}install/raspberrypi/hdd)
-
-#### [Set up RaspberryPi hdd]({%include page/rpi-hdd%})
-
-
-
-
-
