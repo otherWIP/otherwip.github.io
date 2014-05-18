@@ -4,5 +4,5 @@
 
 || Question | Default | What to enter |
 | :---: | :--- | :--- | :--- |
-| 1st | password | blank | enter root password |
+| 1 | RFM12B Serial Port | /dev/ttyAMA0 |  |
 | 3 | confirm | blank | repeat root password |
