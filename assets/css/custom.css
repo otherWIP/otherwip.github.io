@@ -2,6 +2,8 @@
 td, th {
     padding-left: 10px;
     padding-left: 10px;
+    
+    border-color: #333;
 }
 
 table {
