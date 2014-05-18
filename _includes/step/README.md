@@ -12,6 +12,6 @@ the "add-repo" step has a "dist" parameter so can be called for wheezy or quanta
 
     {{ include step/add-repo dist="wheezy" }}
 
-the "add-pack" step has a "pack" parameter so can be called to install emonhub or emoncms or both
+the "add-deb" step has a "pack" parameter so can be called to install emonhub or emoncms or both
 
-    {{ include step/add-pack pack="emonhub emoncms event-module-emoncms" }}
+    {{ include step/add-deb pack="emonhub emoncms event-module-emoncms" }}
