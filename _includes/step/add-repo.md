@@ -1,4 +1,4 @@
-#### **Add the repository url and update the sources list.**
+#### **Add the repository url to the sources list.**
 
     sudo sh -c "echo 'deb http://archive.emonhub.org {{ include.dist }} unstable' >> /etc/apt/sources.list"
     
