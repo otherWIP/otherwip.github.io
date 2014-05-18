@@ -11,6 +11,10 @@ js: index
 
 -----------------------------------
 
+#### [Set up RaspberryPi hdd]({{site.page}}install/raspberrypi/hdd)
+
+#### [Set up RaspberryPi hdd]({{site.page}}install/raspberrypi/hdd)
+
 Installing emonHub to a Raspberry Pi using the Debian Package Installer is really quite straight forward. After adding the location of the software, just tell it to install, the installer asks you some questions and in many cases offers default values, then once it has the info confirmed it will prepare everything for you.
 
 ----------
