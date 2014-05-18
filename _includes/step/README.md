@@ -11,3 +11,7 @@ includes generally start with a #### to give them a heading if a step is upgrade
 the "add-repo" step has a "dist" parameter so can be called for wheezy or quantal etc
 
     {{ include step/add-repo dist="wheezy" }}
+
+the "add-pack" step has a "pack" parameter so can be called to install emonhub or emoncms or both
+
+    {{ include step/add-pack pack="emonhub emoncms event-module-emoncms" }}
