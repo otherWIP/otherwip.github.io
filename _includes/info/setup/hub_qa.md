@@ -13,6 +13,6 @@ During the installation the following settings will be prompted for and the defa
 |7|Dispatcher protocol|http://|||
 |8|Dispatcher endpoint host|localhost|||
 |9|Dispatcher endpoint path|/emoncms|||
-|10|Dispatcher endpoint API write key|Your API Key|||
+|10|Dispatcher endpoint API write key||Your API Key||
 
 *note - to change these settings after installation see [configuring emonHub]()*
