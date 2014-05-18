@@ -1,4 +1,4 @@
-## **Installing the {{include.pack}} package with Debian package installer**
+## **Install the {{include.pack}} package**
 
     sudo apt-get update
     sudo apt-get --force-yes -y install {{include.pack}}
