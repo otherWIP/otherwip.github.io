@@ -1,4 +1,4 @@
-## **Add the repository location**
+## **Add the repository**
 
 To be able to locate and download a package the repository's address must be added to the sources list.
 
