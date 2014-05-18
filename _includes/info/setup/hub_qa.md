@@ -1,6 +1,6 @@
-## emonHub set-up questions
+## emonHub settings
 
-
+The following settings will be prompted and the default answers can be accepted or edited.
 
 || Setting | Default | What to enter |
 | :---: | :--- | :--- | :--- |
