@@ -1,4 +1,4 @@
-## **Set-up emnoHub**
+## **Set-up emonHub**
 
 During the installation the following settings will be prompted for and the default answers can be accepted or edited.
 
