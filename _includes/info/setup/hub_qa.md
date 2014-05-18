@@ -1,4 +1,4 @@
-## emonHub settings
+## **emonHub settings**
 
 The following settings will be prompted and the default answers can be accepted or edited.
 
