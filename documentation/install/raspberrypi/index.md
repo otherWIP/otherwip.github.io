@@ -11,14 +11,14 @@ js: index
 
 -----------------------------------
 
-###Prerequisites 
+###*Prerequisites*
 blah blah
 
 ####sd
 
 ####hdd
 
-Installing emonHub to a RaspberryPi is really quite straight forward using the Debian Package Installer. To be able to locate the software your Pi needs to know the repository address and then you tell it to install, the installer asks you some questions and in many cases offers default values, once it has the info it needs it will prepare everything for you.
+Installing emonHub to a RaspberryPi using the Debian Package Installer is really quite straight forward. After adding the location of the software, just tell it to install, the installer asks you some questions and in many cases offers default values, then once it has the info confirmed it will prepare everything for you.
 
 ----------
 
@@ -26,7 +26,7 @@ Installing emonHub to a RaspberryPi is really quite straight forward using the D
 
 ----
 
-##{% include step/hub-deb.md %}
+{% include step/hub-deb.md %}
 
 ---
 
