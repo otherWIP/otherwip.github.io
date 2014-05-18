@@ -5,6 +5,10 @@ td, th {
     border: 10px solid #D3C7C7;
 }
 
+td {
+    background-color:#fff;   
+}
+
 table {
     margin-left: 20px;
     border-color: #333;
