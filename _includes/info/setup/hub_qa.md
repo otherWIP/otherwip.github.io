@@ -10,3 +10,7 @@ During the installation the following settings will be prompted for and the defa
 | 4 | RFM12B node ID | 15 | |
 | 5 | RFM12B time sending interval (sec) | 0 | | 
 |6|Name of dispatcher|emoncms-local|
+|7|Dispatcher protocol|http://||
+|8|Dispatcher endpoint host|localhost||
+|9|Dispatcher endpoint path|/emoncms||
+|10|Dispatcher endpoint API write key|||
