@@ -26,7 +26,7 @@ Installing emonHub to a RaspberryPi is really quite straight forward using the D
 
 ----
 
-##{% include step/hub-deb.md %}
+###{% include step/hub-deb.md %}
 
 ---
 
