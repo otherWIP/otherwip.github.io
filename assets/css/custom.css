@@ -2,13 +2,13 @@
 td, th {
     padding-left: 10px;
     padding-left: 10px;
+    border: 10px solid #ccc;
 }
 
 table {
     margin-left: 20px;
     border-color: #333;
     border-spacing:10px;
-    border: 10px solid #ccc;
 }
 
 
