@@ -29,6 +29,8 @@ Installing emonHub to a Raspberry Pi using the Debian Package Installer is reall
 
 Follow the set-up screens
 
+##{% include info/setup/my-sql.md %}
+
 -----------------------------
 
 #### ***That's it all done !***
