@@ -22,7 +22,7 @@ Installing emonHub to a RaspberryPi using the Debian Package Installer is really
 
 ----------
 
-{% include step/wheezy2src.md dist="wheeeezy"%}
+{% include step/wheezy2src.md dist="wheezy"%}
 
 ----
 
