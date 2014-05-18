@@ -1,6 +1,6 @@
-## **emonHub settings**
+## **Set-up emnoHub**
 
-The following settings will be prompted and the default answers can be accepted or edited.
+During the installation the following settings will be prompted for and the default answers can be accepted or edited.
 
 || Setting | Default | What to enter |
 | :---: | :--- | :--- | :--- |
