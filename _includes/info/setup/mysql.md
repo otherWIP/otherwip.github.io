@@ -5,7 +5,6 @@
 
 | No | Question | Default | What to enter |
 | :---: | :------------------------------------ | :--- | :--- |
-|----|---------------------------------|----|------------------------------------|
 | 1 | password | blank | enter root password |
 | 3 | confirm | blank | repeat root password |
 
