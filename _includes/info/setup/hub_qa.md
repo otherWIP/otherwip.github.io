@@ -8,3 +8,4 @@
 | 2 | RFM12B radio group | 210 |  |
 | 3 | RFM12B frequency (433/868/915MHz) | 4 | 4 8 or 9 |
 | 4 | RFM12B node ID | 15 | |
+| 5 | RFM12B time sending interval (sec) | 0 | | 
