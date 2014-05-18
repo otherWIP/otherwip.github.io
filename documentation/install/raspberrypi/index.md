@@ -26,7 +26,7 @@ Installing emonHub to a RaspberryPi using the Debian Package Installer is really
 
 ----
 
-{% include step/add-deb.md pack="emonhub"%}
+##{% include step/add-deb.md pack="emonhub"%}
 
 ---
 
