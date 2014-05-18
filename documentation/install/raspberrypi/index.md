@@ -13,8 +13,7 @@ js: index
 
 Pre-install considerations......
 
-It is recommended that emonHub is either installed to a hardrive or that the SD card is configured as Read-Only, [deciding whether to install to SD card or HDD]({{site.page}}install/raspberrypi/sd_or_hdd)
-
+[Deciding whether to install to SD card or HDD]({{site.page}}install/raspberrypi/sd_or_hdd) is the big decision as it is highly recommended that emonHub is either installed to a hardrive or unless the SD card is configured as Read-Only
 Installing emonHub to a Raspberry Pi using the Debian Package Installer is really quite straight forward. After adding the location of the software, just tell it to install, the installer asks you some questions and in many cases offers default values, then once it has the info confirmed it will prepare everything for you.
 
 ----------
