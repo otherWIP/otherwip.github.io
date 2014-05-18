@@ -7,11 +7,11 @@ layout: default
 js: index
 ---
 
-##Installing EmonHub to Raspberry Pi
+##*Installing EmonHub to Raspberry Pi*
 
 -----------------------------------
 
-###*Prerequisites*
+####***Prerequisites***
 blah blah
 
 ####sd
