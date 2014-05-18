@@ -1,4 +1,4 @@
-## Set-up a Raspbian hard drive image for Raspberry Pi using SD card.
+## *Set-up a Raspbian hard drive image for Raspberry Pi using SD card.*
 
 {% include link/ext/rasp-img %}
 
