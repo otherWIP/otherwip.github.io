@@ -1,4 +1,4 @@
-## **Install the {{include.pack}} package**
+## **Install {{include.pack}}**
 
 After updating the package list to ensure the latest version can be found, install the package(s) using the debian package installer.
 
