@@ -27,7 +27,7 @@ Installing emonHub to a Raspberry Pi using the Debian Package Installer is reall
 
 ---
 
-##{% include info/setup/hub_qa.md %}
+##{% include info/setup/hub_qa2.md %}
 
 -----------------------------
 
