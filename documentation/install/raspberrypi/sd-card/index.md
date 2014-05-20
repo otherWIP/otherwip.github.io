@@ -7,7 +7,7 @@ layout: default
 js: index
 ---
 
-### **The Raspberry Pi Read-Only SD-card**
+## **The Raspberry Pi Read-Only SD-card**
 
 {% include link/ext/rasp-img %}
 
