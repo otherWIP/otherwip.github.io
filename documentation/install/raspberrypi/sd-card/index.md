@@ -9,7 +9,7 @@ js: index
 
 ## **The Raspberry Pi Read-Only SD-card**
 
-{% include link/ext/rasp-img %}
+{% include link/ext/rasp-img %} and load to SDcard
 
 Configure Raspbian to run in read-only mode for increased stability (optional but recommended)
 
