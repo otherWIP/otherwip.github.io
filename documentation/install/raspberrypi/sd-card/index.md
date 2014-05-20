@@ -1,5 +1,5 @@
 ---
-title: Read-Only SD-card
+title: Read-Only Raspbian
 tags: 
 categories: 
 published: True
