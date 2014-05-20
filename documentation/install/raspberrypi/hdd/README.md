@@ -15,7 +15,7 @@ Boot up Pi with the hdd connected but without any other drives connected
     sudo sh -c "echo '# a swapfile is not a swap partition, so no using swapon|off from here on, use  dphys-swapfile swap[on|off]  for that' >> /media/hdd/etc/fstab"
     sudo sh -c "echo ' ' >> /media/hdd/etc/fstab"
     sudo sh -c 'echo "dwc_otg.lpm_enable=0 console=tty1 root=/dev/sda2 rootfstype=ext4 elevator=deadline rootwait" > /boot/cmdline.txt'
-#sort /etc/inittab 
+Then *(sort /etc/inittab)* restart
     sudo shutdown -r now
 
 
