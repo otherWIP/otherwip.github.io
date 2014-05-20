@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi SD-card
+title: Read-Only SD-card
 tags: 
 categories: 
 published: True
