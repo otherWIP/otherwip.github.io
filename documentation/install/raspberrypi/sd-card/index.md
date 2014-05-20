@@ -9,15 +9,7 @@ js: index
 
 ### The Raspberry Pi SD-card
 
-[trystans ro image](http://openenergymonitor.org/emon/node/4283)
-http://www.raspberrypi.org/forums/viewtopic.php?f=29&t=22596
-https://wiki.debian.org/ReadonlyRoot
-
-
 Configure Raspbian to run in read-only mode for increased stability (optional but recommended)
-
-Steps from: http://www.raspberrypi.org/forum/viewtopic.php?f=29&t=22596
-
 
 Start by updating the downloaded Raspbian image
     
