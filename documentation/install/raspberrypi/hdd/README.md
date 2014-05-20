@@ -23,3 +23,14 @@ Then *(sort /etc/inittab)* restart
 
     sudo apt-get update
     sudo apt-get upgrade -y
+
+
+would be nice to have 
+
+a) a script to add hdd using raspbian on hdd + single script
+
+b) a script to add hdd using wget
+
+c) a ro + hdd script in one command
+
+d) a ro emonhub image with "add hdd" facilities
