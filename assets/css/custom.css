@@ -5,7 +5,7 @@ border: none;
 /* Selector for entire element. */
 .cse .gsc-control-cse,
 .gsc-control-cse {
-  background-color: transparent;
+  background-color: #D3C7C7;
   border: none;
 }
 /*media screen*/
