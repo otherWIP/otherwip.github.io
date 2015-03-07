@@ -2,6 +2,12 @@
 background-color: none;
 border: none;
 }
+/* Selector for entire element. */
+.cse .gsc-control-cse,
+.gsc-control-cse {
+  background-color: none;
+  border: none;
+}
 /*media screen*/
 th {
     padding-left: 10px;
