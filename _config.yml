@@ -5,7 +5,7 @@
   #  values:
   #  layout: "_layouts/default.html"
 redirects: yes
-
+include: [.htaccess]
 markdown: kramdown
 
 test: http://jekyllrb.com/
