@@ -5,7 +5,7 @@
   #  values:
   #  layout: "_layouts/default.html"
 redirects: yes
-include: [.htaccess]
+
 markdown: kramdown
 
 test: http://jekyllrb.com/
@@ -34,6 +34,7 @@ web-git: https://github.com/otherWIP/otherwip.github.io
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
 
+include: [.htaccess]
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
